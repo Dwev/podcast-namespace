@@ -235,8 +235,8 @@ section [here](https://github.com/Podcastindex-org/podcast-namespace/labels/prop
 
 ## Branding
 
-![Podcasting2.org](https://podcasting2.org)
+[Podcasting2.org](https://podcasting2.org)
 
-![Podcasting 2.0 Brand Guide](https://live.standards.site/podcasting20/)
+[Podcasting 2.0 Brand Guide](https://live.standards.site/podcasting20/)
 
-![Podcasting 2.0 Badge](images/pc20badgered.svg)
+<img src="images/pc20badgered.svg" height="50" alt="Podcasting 2.0 Badge (red)" />
